@@ -9,3 +9,4 @@ index:
 https://www.poweredbymediatek.com/
 
 https://www.poweredbymediatek.com/device?device_category=Chromebook
+https://www.poweredbymediatek.com/device?device_category=Smartphone
